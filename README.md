@@ -41,7 +41,7 @@ Une fonction `Password()` existe dans l'application Android mais n'est jamais ap
 
 ### Lancement du script
 
-![Frida script](simages/image7.png)
+![Frida script](images/image7.png)
 
 ### Mot de passe obtenu
 

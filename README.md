@@ -49,17 +49,12 @@ Une fonction `Password()` existe dans l'application Android mais n'est jamais ap
 
 ---
 
-##  Étape 5 — Authentification Firebase
-
-### Token obtenu
-
-![Firebase auth](images/image9.png)
-
 ---
 
-## Étape 6 — Flag
+## Étape 5 — Flag
 
 ![Flag](images/image10.png)
 
 ---
+auteur: FATIMAEZZAHRA ENNASSIRI
 
